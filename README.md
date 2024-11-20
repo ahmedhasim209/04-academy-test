@@ -1,12 +1,33 @@
-<<<<<<< HEAD
-# React + Vite
+GoStudent Orders Page
+This project is the order's page for the GoStudent platform, designed to provide a seamless order management experience for both students and administrators.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Table of Contents
+Introduction
+Features
+Getting Started
+Prerequisites
+Installation
+Contributing
+Introduction
+The GoStudent order's page is a React-based application that allows for efficient tracking and management of orders. Built with modern JavaScript, it integrates seamlessly with the GoStudent platform's backend services.
 
-Currently, two official plugins are available:
+Features
+Registration and Booking at GoStudent platform
+Fully dynamic form.
+Responsive design for desktop and mobile devices
+Getting Started
+To get a local copy up and running, follow these simple steps.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# 04-academy-test
->>>>>>> f46e6964af79f5a26ded540fc8d227a1dd26836e
+Prerequisites
+npm
+Installation
+Clone the repository
+Install NPM packages
+Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
