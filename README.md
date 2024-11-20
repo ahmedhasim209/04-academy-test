@@ -42,8 +42,8 @@ This project is a responsive web application built with React and Material-UI (M
    
 2. Navigate to the project directory:
    ```bash
-cd your-repo
+   cd your-repo
    
 1. Install dependencies:
    ```bash
-npm install or yarn install
+   npm install or yarn install
